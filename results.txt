@@ -1,0 +1,7 @@
+SGNS OntoNoets
+Epoch: 27, Loss = 1.909, WS353 = 0.433, Google = 0.054
+
+SGNS OntoNotes shuffled
+Epoch: 18, Loss = 2.036, WS353 = 0.431, Google = 0.041
+
+
